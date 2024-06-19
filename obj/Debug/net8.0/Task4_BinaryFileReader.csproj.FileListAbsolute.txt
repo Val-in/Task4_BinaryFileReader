@@ -1,0 +1,14 @@
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\bin\Debug\net8.0\Task4_BinaryFileReader.exe
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\bin\Debug\net8.0\Task4_BinaryFileReader.deps.json
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\bin\Debug\net8.0\Task4_BinaryFileReader.runtimeconfig.json
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\bin\Debug\net8.0\Task4_BinaryFileReader.dll
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\bin\Debug\net8.0\Task4_BinaryFileReader.pdb
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\Task4_BinaryFileReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\Task4_BinaryFileReader.AssemblyInfoInputs.cache
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\Task4_BinaryFileReader.AssemblyInfo.cs
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\Task4_BinaryFileReader.csproj.CoreCompileInputs.cache
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\Task4_BinaryFileReader.dll
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\refint\Task4_BinaryFileReader.dll
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\Task4_BinaryFileReader.pdb
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\Task4_BinaryFileReader.genruntimeconfig.cache
+D:\C Language\FilesLesson\Tasks\Task4_BinaryFileReader\obj\Debug\net8.0\ref\Task4_BinaryFileReader.dll
